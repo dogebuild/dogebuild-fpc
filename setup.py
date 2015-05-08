@@ -6,7 +6,7 @@ setup(
     description='Free Pascal Compiler plugin for dogebuild',
     author='Kirill Sulim',
     author_email='kirillsulim@gmail.com',
-    url='https://github.com/dogebuild/fpc',
+    url='https://github.com/dogebuild/dogebuild-fpc',
     packages=find_packages(include=[
         'dogebuild*',
       ]),
